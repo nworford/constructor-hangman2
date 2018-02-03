@@ -1,22 +1,22 @@
 {
-  "name": "constructor-hangman",
+  "name": "constructor-hangman2",
   "version": "1.0.0",
-  "description": "",
+  "description": "constructor-hangman2",
   "main": "game.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nworford/constructor-hangman.git"
+    "url": "git+https://github.com/nworford/constructor-hangman2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nworford/constructor-hangman/issues"
+    "url": "https://github.com/nworford/constructor-hangman2/issues"
   },
-  "homepage": "https://github.com/nworford/constructor-hangman#readme",
+  "homepage": "https://github.com/nworford/constructor-hangman2#readme",
   "dependencies": {
     "inquirer": "^5.0.1"
   }
