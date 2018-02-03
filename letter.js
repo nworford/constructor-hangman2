@@ -15,8 +15,11 @@ module.exports = class Letter{
             return this.char;
         }
     }
-    ischar(char){
-        if(char === this.char){
+    testchar(char){
+        if(!this.isletter || !this.hidechar){
+            return false;
+        }
+        if(char.toLowerCase() === this.char.toLowerCase()){
             this.hidechar = false;
             return true;
         }
